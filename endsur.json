@@ -1,1 +1,26 @@
-{"apps":[{"beta":false,"bundleIdentifier":"com.camila314.icreate","developerName":"Camila314","downloadURL":"https://objectstorage.us-phoenix-1.oraclecloud.com/n/axe9yayefpvx/b/iCreateVersions/o/iCreatePro_6.6.0.ipa","iconURL":"https://enderthedeveloper.github.io/Endsur-Repo/images/icreate.png","localizedDescription":"iCreate Pro is a iOS Mod-Menu for Geometry Dash","name":"iCreate","screenshotURLs":[""],"size":2184796,"subtitle":"Geometry Dash iOS Mod Menu","tintColor":"018084","version":"6.6.0","versionDate":"Recently","versionDescription":"Absolute Attempts\nCustom Layer Color\nCustom List Colors\nCustom Transition Time\nCustom Wave Color\nCustom Wave Size\nIcon Copier\nIcon Presets\nNoclip Time\nNoclip Tint Color\nSafe Mode\nSFH Integration\nSolid Trail\nSolid Wave Trail\nImage Reference Fixes\nCBF Fixes"}],"identifier":"com.example.source","name":"Endrs Repo","news":[],"userInfo":{}}
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.camila314.icreate",
+      "developerName": "Camila314",
+      "downloadURL": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axe9yayefpvx/b/iCreateVersions/o/iCreatePro_6.6.0.ipa",
+      "iconURL": "https://enderthedeveloper.github.io/Endsur-Repo/images/icreate.png",
+      "localizedDescription": "iCreate Pro is a iOS Mod-Menu for Geometry Dash",
+      "name": "iCreate",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "Geometry Dash iOS Mod Menu",
+      "tintColor": "018084",
+      "version": "6.6.0",
+      "versionDate": "Recently",
+      "versionDescription": "Absolute Attempts\nCustom Layer Color\nCustom List Colors\nCustom Transition Time\nCustom Wave Color\nCustom Wave Size\nIcon Copier\nIcon Presets\nNoclip Time\nNoclip Tint Color\nSafe Mode\nSFH Integration\nSolid Trail\nSolid Wave Trail\nImage Reference Fixes\nCBF Fixes"
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Endrs Repo",
+  "news": [],
+  "userInfo": {}
+}
