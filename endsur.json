@@ -2,6 +2,22 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.ninjago.toe",
+      "developerName": "Riley Testut",
+      "downloadURL": "https://archive.org/download/spinjitzu/LEGO%20Ninjago%20Tournament/LEGO%20Ninjago%201.1.70250.ipa",
+      "iconURL": "https://static.wikia.nocookie.net/ninjago/images/7/75/TournamentArt.jpeg",
+      "localizedDescription": "Lego Ninjagos Tournament of Elements game",
+      "name": "LEGO Ninjago: Tournament",,
+      "size": 500000000,
+      "subtitle": "The Tournament Of Elements",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "2015-01-23",
+      "versionDescription": "** Requires iOS 9-10"
+    },
+    
+    {
+      "beta": false,
       "bundleIdentifier": "com.camila314.icreate",
       "developerName": "Camila314",
       "downloadURL": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axe9yayefpvx/b/iCreateVersions/o/iCreatePro_6.6.0.ipa",
