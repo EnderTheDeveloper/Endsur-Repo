@@ -19,8 +19,10 @@
       "versionDescription": "Absolute Attempts\nCustom Layer Color\nCustom List Colors\nCustom Transition Time\nCustom Wave Color\nCustom Wave Size\nIcon Copier\nIcon Presets\nNoclip Time\nNoclip Tint Color\nSafe Mode\nSFH Integration\nSolid Trail\nSolid Wave Trail\nImage Reference Fixes\nCBF Fixes"
     }
   ],
-  "identifier": "com.example.source",
-  "name": "Endrs Repo",
-  "news": [],
-  "userInfo": {}
+{
+  "name": "Endsur Repo",
+  "identifier": "com.endsur.apps",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://example.com/source_icon.png",
 }
